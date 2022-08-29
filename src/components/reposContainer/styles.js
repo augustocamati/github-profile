@@ -24,6 +24,14 @@ export const Title = styled.h1`
     
 
 `
+export const ListReposContainer = styled.h1`
+    width: 100%;
+    height: 350px;
+    overflow: scroll;
+  
+    padding: 10px;
+
+`
 
 export const Repo = styled.h2`
     width: 100%;
